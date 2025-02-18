@@ -202,5 +202,14 @@ Once you're done, ensure to clean up the AWS resources by following one of the t
 
 #### **Option: Use the Cleanup infrastructure-as-code (IaC) Notebook**  
 - Run the **`iac_aws_resources_cleanup.ipynb`** notebook to automatically destroy the AWS resources that were created.
+-------
 
+## Visualizations
 
+<img src="analytics/results_charts/query-1.png" alt="Query 5" width="700" height=auto>
+
+<img src="analytics/results_charts/query-4.png" alt="Query 5" width="700" height=auto>
+
+<img src="analytics/results_charts/query-5.png" alt="Query 5" width="700" height=auto>
+
+<img src="analytics/results_charts/query-6.png" alt="Query 6" width="700" height=auto>
