@@ -1,0 +1,14 @@
+boto3
+botocore
+json5
+jsonschema
+ipython-sql==0.3.9
+pandas
+pip
+psycopg2
+psycopg2-binary
+SQLAlchemy==1.1.13
+
+
+
+
